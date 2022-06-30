@@ -5,7 +5,7 @@ Mail Merge is a handy feature that incorporates data from text files and allows 
 - Customizes starting letter to fit individual
 
 ##
-- Other modules in this day's directory were used(by importing them) in main.py.Read more on [Python Modules](https://www.w3schools.com/python/python_modules.asp)
+- Other modules created in this day's directory were used(by importing them) in main.py.Read more on [Python Modules](https://www.w3schools.com/python/python_modules.asp)
 - Read more on [Python File methods](https://www.w3schools.com/python/python_file_handling.asp)
 
 
